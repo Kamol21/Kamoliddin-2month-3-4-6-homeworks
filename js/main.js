@@ -1,4 +1,4 @@
-var elModalOpenButton = document.querySelector(".s1-button");
+var elModalOpenButton = document.querySelector(".radio-button");
 var elModal = document.querySelector(".modal");
 
 elModalOpenButton.addEventListener("click", function(){
